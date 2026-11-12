@@ -30,7 +30,7 @@ namespace EmployeePayrollHRMS
         static int nextId = 1001;
 
         // >>> Line used for the deliberate merge conflict (Step 4) <<<
-        const string AppTitle = "EMPLOYEE PAYROLL & HR MANAGEMENT SYSTEM (MAIN BRANCH) (MAIN BRANCH)";
+        const string AppTitle = "EMPLOYEE PAYROLL & HR MANAGEMENT SYSTEM";
 
         static void Main()
         {
